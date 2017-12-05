@@ -1,5 +1,1 @@
-<?php
-
-alert("hello");
-  
-?>
+hello
