@@ -1,5 +1,5 @@
 <?php
 
-a<br>
+echo "a<br>"
 
 ?>
