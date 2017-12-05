@@ -1,5 +1,6 @@
 <?php
 
-echo "hello world!";
-return 10;
+$my_file = '/tmp/wadu.txt';
+$handle = fopen($my_file, 'w')
+  
 ?>
