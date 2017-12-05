@@ -1,5 +1,5 @@
 <?php
 
-msg<br>msg
 
+return 10;
 ?>
